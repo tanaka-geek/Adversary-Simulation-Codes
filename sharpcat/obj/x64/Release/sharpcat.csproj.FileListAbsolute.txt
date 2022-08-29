@@ -1,0 +1,8 @@
+\\tsclient\shared-folder-with-win11\experimental\sharpcat\sharpcat\bin\x64\Release\sharpcat.exe.config
+\\tsclient\shared-folder-with-win11\experimental\sharpcat\sharpcat\bin\x64\Release\sharpcat.exe
+\\tsclient\shared-folder-with-win11\experimental\sharpcat\sharpcat\bin\x64\Release\sharpcat.pdb
+\\tsclient\shared-folder-with-win11\experimental\sharpcat\sharpcat\obj\x64\Release\sharpcat.csproj.AssemblyReference.cache
+\\tsclient\shared-folder-with-win11\experimental\sharpcat\sharpcat\obj\x64\Release\sharpcat.csproj.SuggestedBindingRedirects.cache
+\\tsclient\shared-folder-with-win11\experimental\sharpcat\sharpcat\obj\x64\Release\sharpcat.csproj.CoreCompileInputs.cache
+\\tsclient\shared-folder-with-win11\experimental\sharpcat\sharpcat\obj\x64\Release\sharpcat.exe
+\\tsclient\shared-folder-with-win11\experimental\sharpcat\sharpcat\obj\x64\Release\sharpcat.pdb
