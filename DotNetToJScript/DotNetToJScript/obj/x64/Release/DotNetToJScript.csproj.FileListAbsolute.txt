@@ -1,0 +1,10 @@
+\\192.168.3.5\Shared\OSEP-Code-Snippets\DotNetToJScript\DotNetToJScript\bin\x64\Release\DotNetToJScript.exe
+\\192.168.3.5\Shared\OSEP-Code-Snippets\DotNetToJScript\DotNetToJScript\bin\x64\Release\DotNetToJScript.pdb
+\\192.168.3.5\Shared\OSEP-Code-Snippets\DotNetToJScript\DotNetToJScript\bin\x64\Release\NDesk.Options.dll
+\\192.168.3.5\Shared\OSEP-Code-Snippets\DotNetToJScript\DotNetToJScript\obj\x64\Release\DotNetToJScript.csproj.AssemblyReference.cache
+\\192.168.3.5\Shared\OSEP-Code-Snippets\DotNetToJScript\DotNetToJScript\obj\x64\Release\DotNetToJScript.Properties.Resources.resources
+\\192.168.3.5\Shared\OSEP-Code-Snippets\DotNetToJScript\DotNetToJScript\obj\x64\Release\DotNetToJScript.csproj.GenerateResource.cache
+\\192.168.3.5\Shared\OSEP-Code-Snippets\DotNetToJScript\DotNetToJScript\obj\x64\Release\DotNetToJScript.csproj.CoreCompileInputs.cache
+\\192.168.3.5\Shared\OSEP-Code-Snippets\DotNetToJScript\DotNetToJScript\obj\x64\Release\DotNetToJScript.csproj.CopyComplete
+\\192.168.3.5\Shared\OSEP-Code-Snippets\DotNetToJScript\DotNetToJScript\obj\x64\Release\DotNetToJScript.exe
+\\192.168.3.5\Shared\OSEP-Code-Snippets\DotNetToJScript\DotNetToJScript\obj\x64\Release\DotNetToJScript.pdb

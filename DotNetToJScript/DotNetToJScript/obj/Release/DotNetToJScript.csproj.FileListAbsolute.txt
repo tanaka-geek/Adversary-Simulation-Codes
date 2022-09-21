@@ -1,0 +1,9 @@
+C:\Users\homer\DotNetToJScript\DotNetToJScript\bin\Release\DotNetToJScript.exe
+C:\Users\homer\DotNetToJScript\DotNetToJScript\bin\Release\DotNetToJScript.pdb
+C:\Users\homer\DotNetToJScript\DotNetToJScript\bin\Release\NDesk.Options.dll
+C:\Users\homer\DotNetToJScript\DotNetToJScript\obj\Release\DotNetToJScript.Properties.Resources.resources
+C:\Users\homer\DotNetToJScript\DotNetToJScript\obj\Release\DotNetToJScript.csproj.GenerateResource.cache
+C:\Users\homer\DotNetToJScript\DotNetToJScript\obj\Release\DotNetToJScript.csproj.CoreCompileInputs.cache
+C:\Users\homer\DotNetToJScript\DotNetToJScript\obj\Release\DotNetToJScript.csproj.CopyComplete
+C:\Users\homer\DotNetToJScript\DotNetToJScript\obj\Release\DotNetToJScript.exe
+C:\Users\homer\DotNetToJScript\DotNetToJScript\obj\Release\DotNetToJScript.pdb

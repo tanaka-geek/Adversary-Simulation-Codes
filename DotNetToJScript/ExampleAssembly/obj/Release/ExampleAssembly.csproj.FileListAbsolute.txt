@@ -1,0 +1,6 @@
+C:\Users\homer\DotNetToJScript\ExampleAssembly\bin\Release\ExampleAssembly.dll
+C:\Users\homer\DotNetToJScript\ExampleAssembly\bin\Release\ExampleAssembly.pdb
+C:\Users\homer\DotNetToJScript\ExampleAssembly\obj\Release\ExampleAssembly.csproj.AssemblyReference.cache
+C:\Users\homer\DotNetToJScript\ExampleAssembly\obj\Release\ExampleAssembly.csproj.CoreCompileInputs.cache
+C:\Users\homer\DotNetToJScript\ExampleAssembly\obj\Release\ExampleAssembly.dll
+C:\Users\homer\DotNetToJScript\ExampleAssembly\obj\Release\ExampleAssembly.pdb

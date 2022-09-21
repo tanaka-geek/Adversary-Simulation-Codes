@@ -1,0 +1,10 @@
+C:\Users\homer\DotNetToJScript\DotNetToJScript\bin\Debug\DotNetToJScript.exe
+C:\Users\homer\DotNetToJScript\DotNetToJScript\bin\Debug\DotNetToJScript.pdb
+C:\Users\homer\DotNetToJScript\DotNetToJScript\bin\Debug\NDesk.Options.dll
+C:\Users\homer\DotNetToJScript\DotNetToJScript\obj\Debug\DotNetToJScript.csproj.AssemblyReference.cache
+C:\Users\homer\DotNetToJScript\DotNetToJScript\obj\Debug\DotNetToJScript.Properties.Resources.resources
+C:\Users\homer\DotNetToJScript\DotNetToJScript\obj\Debug\DotNetToJScript.csproj.GenerateResource.cache
+C:\Users\homer\DotNetToJScript\DotNetToJScript\obj\Debug\DotNetToJScript.csproj.CoreCompileInputs.cache
+C:\Users\homer\DotNetToJScript\DotNetToJScript\obj\Debug\DotNetToJScript.csproj.CopyComplete
+C:\Users\homer\DotNetToJScript\DotNetToJScript\obj\Debug\DotNetToJScript.exe
+C:\Users\homer\DotNetToJScript\DotNetToJScript\obj\Debug\DotNetToJScript.pdb
