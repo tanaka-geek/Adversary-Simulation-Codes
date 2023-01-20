@@ -1,0 +1,8 @@
+\\Mac\Shared\OSEP-Code-Snippets\UacUp\bin\Debug\UacUp.exe.config
+\\Mac\Shared\OSEP-Code-Snippets\UacUp\bin\Debug\UacUp.exe
+\\Mac\Shared\OSEP-Code-Snippets\UacUp\bin\Debug\UacUp.pdb
+\\Mac\Shared\OSEP-Code-Snippets\UacUp\obj\Debug\UacUp.csproj.AssemblyReference.cache
+\\Mac\Shared\OSEP-Code-Snippets\UacUp\obj\Debug\UacUp.csproj.SuggestedBindingRedirects.cache
+\\Mac\Shared\OSEP-Code-Snippets\UacUp\obj\Debug\UacUp.csproj.CoreCompileInputs.cache
+\\Mac\Shared\OSEP-Code-Snippets\UacUp\obj\Debug\UacUp.exe
+\\Mac\Shared\OSEP-Code-Snippets\UacUp\obj\Debug\UacUp.pdb

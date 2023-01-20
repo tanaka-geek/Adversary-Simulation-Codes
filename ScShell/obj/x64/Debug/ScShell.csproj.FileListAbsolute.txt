@@ -1,0 +1,8 @@
+M:\OSEP-Code-Snippets\ScShell\bin\x64\Debug\ScShell.exe.config
+M:\OSEP-Code-Snippets\ScShell\bin\x64\Debug\ScShell.exe
+M:\OSEP-Code-Snippets\ScShell\bin\x64\Debug\ScShell.pdb
+M:\OSEP-Code-Snippets\ScShell\obj\x64\Debug\ScShell.csproj.AssemblyReference.cache
+M:\OSEP-Code-Snippets\ScShell\obj\x64\Debug\ScShell.csproj.SuggestedBindingRedirects.cache
+M:\OSEP-Code-Snippets\ScShell\obj\x64\Debug\ScShell.csproj.CoreCompileInputs.cache
+M:\OSEP-Code-Snippets\ScShell\obj\x64\Debug\ScShell.exe
+M:\OSEP-Code-Snippets\ScShell\obj\x64\Debug\ScShell.pdb
