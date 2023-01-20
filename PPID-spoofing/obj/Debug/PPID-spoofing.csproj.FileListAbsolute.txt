@@ -1,0 +1,8 @@
+\\Mac\Shared\Development\PPID-spoofing\bin\Debug\PPID-spoofing.exe.config
+\\Mac\Shared\Development\PPID-spoofing\bin\Debug\PPID-spoofing.exe
+\\Mac\Shared\Development\PPID-spoofing\bin\Debug\PPID-spoofing.pdb
+\\Mac\Shared\Development\PPID-spoofing\obj\Debug\PPID-spoofing.csproj.AssemblyReference.cache
+\\Mac\Shared\Development\PPID-spoofing\obj\Debug\PPID-spoofing.csproj.SuggestedBindingRedirects.cache
+\\Mac\Shared\Development\PPID-spoofing\obj\Debug\PPID-spoofing.csproj.CoreCompileInputs.cache
+\\Mac\Shared\Development\PPID-spoofing\obj\Debug\PPID-spoofing.exe
+\\Mac\Shared\Development\PPID-spoofing\obj\Debug\PPID-spoofing.pdb
