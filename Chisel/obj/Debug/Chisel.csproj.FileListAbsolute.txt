@@ -1,8 +1,0 @@
-M:\OSEP-Code-Snippets\Chisel\bin\Debug\Chisel.exe.config
-M:\OSEP-Code-Snippets\Chisel\bin\Debug\Chisel.exe
-M:\OSEP-Code-Snippets\Chisel\bin\Debug\Chisel.pdb
-M:\OSEP-Code-Snippets\Chisel\obj\Debug\Chisel.csproj.AssemblyReference.cache
-M:\OSEP-Code-Snippets\Chisel\obj\Debug\Chisel.csproj.SuggestedBindingRedirects.cache
-M:\OSEP-Code-Snippets\Chisel\obj\Debug\Chisel.csproj.CoreCompileInputs.cache
-M:\OSEP-Code-Snippets\Chisel\obj\Debug\Chisel.exe
-M:\OSEP-Code-Snippets\Chisel\obj\Debug\Chisel.pdb

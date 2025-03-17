@@ -1,8 +1,0 @@
-\\Mac\Shared\OSEP-Code-Snippets\ReflectiveDLLInjection\bin\x64\Debug\ReflectiveDLLInjection.exe.config
-\\Mac\Shared\OSEP-Code-Snippets\ReflectiveDLLInjection\bin\x64\Debug\ReflectiveDLLInjection.exe
-\\Mac\Shared\OSEP-Code-Snippets\ReflectiveDLLInjection\bin\x64\Debug\ReflectiveDLLInjection.pdb
-\\Mac\Shared\OSEP-Code-Snippets\ReflectiveDLLInjection\obj\x64\Debug\ReflectiveDLLInjection.csproj.AssemblyReference.cache
-\\Mac\Shared\OSEP-Code-Snippets\ReflectiveDLLInjection\obj\x64\Debug\ReflectiveDLLInjection.csproj.SuggestedBindingRedirects.cache
-\\Mac\Shared\OSEP-Code-Snippets\ReflectiveDLLInjection\obj\x64\Debug\ReflectiveDLLInjection.csproj.CoreCompileInputs.cache
-\\Mac\Shared\OSEP-Code-Snippets\ReflectiveDLLInjection\obj\x64\Debug\ReflectiveDLLInjection.exe
-\\Mac\Shared\OSEP-Code-Snippets\ReflectiveDLLInjection\obj\x64\Debug\ReflectiveDLLInjection.pdb

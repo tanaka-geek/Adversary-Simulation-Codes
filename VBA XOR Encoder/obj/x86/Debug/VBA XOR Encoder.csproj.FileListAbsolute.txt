@@ -1,8 +1,0 @@
-\\192.168.3.5\Shared\OSEP-Code-Snippets\VBA XOR Encoder\bin\x86\Debug\VBA XOR Encoder.exe.config
-\\192.168.3.5\Shared\OSEP-Code-Snippets\VBA XOR Encoder\bin\x86\Debug\VBA XOR Encoder.exe
-\\192.168.3.5\Shared\OSEP-Code-Snippets\VBA XOR Encoder\bin\x86\Debug\VBA XOR Encoder.pdb
-\\192.168.3.5\Shared\OSEP-Code-Snippets\VBA XOR Encoder\obj\x86\Debug\VBA XOR Encoder.csproj.AssemblyReference.cache
-\\192.168.3.5\Shared\OSEP-Code-Snippets\VBA XOR Encoder\obj\x86\Debug\VBA XOR Encoder.csproj.SuggestedBindingRedirects.cache
-\\192.168.3.5\Shared\OSEP-Code-Snippets\VBA XOR Encoder\obj\x86\Debug\VBA XOR Encoder.csproj.CoreCompileInputs.cache
-\\192.168.3.5\Shared\OSEP-Code-Snippets\VBA XOR Encoder\obj\x86\Debug\VBA XOR Encoder.exe
-\\192.168.3.5\Shared\OSEP-Code-Snippets\VBA XOR Encoder\obj\x86\Debug\VBA XOR Encoder.pdb

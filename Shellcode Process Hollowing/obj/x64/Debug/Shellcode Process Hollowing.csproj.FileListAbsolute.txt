@@ -1,8 +1,0 @@
-\\192.168.3.5\Shared\OSEP-Code-Snippets\Shellcode Process Hollowing\bin\x64\Debug\Shellcode Process Hollowing.exe.config
-\\192.168.3.5\Shared\OSEP-Code-Snippets\Shellcode Process Hollowing\bin\x64\Debug\Shellcode Process Hollowing.exe
-\\192.168.3.5\Shared\OSEP-Code-Snippets\Shellcode Process Hollowing\bin\x64\Debug\Shellcode Process Hollowing.pdb
-\\192.168.3.5\Shared\OSEP-Code-Snippets\Shellcode Process Hollowing\obj\x64\Debug\Shellcode Process Hollowing.csproj.AssemblyReference.cache
-\\192.168.3.5\Shared\OSEP-Code-Snippets\Shellcode Process Hollowing\obj\x64\Debug\Shellcode Process Hollowing.csproj.SuggestedBindingRedirects.cache
-\\192.168.3.5\Shared\OSEP-Code-Snippets\Shellcode Process Hollowing\obj\x64\Debug\Shellcode Process Hollowing.csproj.CoreCompileInputs.cache
-\\192.168.3.5\Shared\OSEP-Code-Snippets\Shellcode Process Hollowing\obj\x64\Debug\Shellcode Process Hollowing.exe
-\\192.168.3.5\Shared\OSEP-Code-Snippets\Shellcode Process Hollowing\obj\x64\Debug\Shellcode Process Hollowing.pdb
